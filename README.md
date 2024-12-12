@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Noor-Fatima2408
-- 👀 I’m interested in learning as many programming languages 
+- 👀 I'm going to be a software engineer with a passion in programming 
 - 🌱 I’m currently learning C++ and python
 - 💞️ I’m looking to collaborate on a better digital world
 - 📫 How to reach me ( I don't know 😂)
