@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Noor-Fatima2408
-- 👀 I'm going to be a software engineer with a passion in programming 
-- 🌱 I’m currently learning C++ and python
-- 💞️ I’m looking to collaborate on a better digital world
+- 👀 Code today, engineer tomorrow. Chasing my passion for software engineering.
+- 🌱 Currently learning C++ and python
+- 💞️ Looking to collaborate on a better digital world
 - 📫 How to reach me ( I don't know 😂)
 - 😄 Pronouns: Aesira
   
