@@ -3,7 +3,7 @@
 - 🌱 Currently learning C++ and python
 - 💞️ Looking to collaborate on a better digital world
 - 📫 How to reach me ( I don't know 😂)
-- 😄 Pronouns: Aesira
+
   
 
 <!---
