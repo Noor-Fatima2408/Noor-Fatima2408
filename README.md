@@ -24,10 +24,6 @@ I'm always interested in collaborating on projects that:
 ## 📫 Connect With Me
 - **GitHub:** [@Noor-Fatima2408](https://github.com/Noor-Fatima2408)
   
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Noor-Fatima2408&show_icons=true&theme=radical)
-
 ## 🎯 Current Goals
 - Master Python fundamentals
 - Build a portfolio of meaningful projects
