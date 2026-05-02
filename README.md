@@ -108,6 +108,23 @@ graph LR
 
 ---
 
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noor-Fatima2408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noor-Fatima2408&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noor-Fatima2408&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ## 🤝 **Collaboration Interests**
 
 I'm always excited to work on projects that:
